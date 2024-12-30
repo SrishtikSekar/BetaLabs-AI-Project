@@ -5,7 +5,7 @@ This repository is designed for group 2 members to submit their work for review.
 ## 🛠️ How to Submit Your Work
 Follow these steps to submit your work:
 
-Clone the repository:  git clone <repository-url>
+Clone the repository:  git clone (repository-url)
 
 Create a new branch : git checkout -b submission-yourname
 
