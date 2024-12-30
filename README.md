@@ -2,7 +2,7 @@
 
 This repository is designed for group 2 members to submit their work for review. All submissions will be reviewed and approved before being merged into the main branch.
 
-# 🛠️ How to Submit Your Work
+## 🛠️ How to Submit Your Work
 Follow these steps to submit your work:
 
 Clone the repository:  git clone <repository-url>
@@ -22,7 +22,7 @@ Create a pull request:
 
 
 
-# 🔍 Reviewing Process
+## 🔍 Reviewing Process
 Once you create a pull request, it will be reviewed.
 If changes are required, you will be notified in the PR comments.
 Once approved, your submission will be merged into the main branch.
