@@ -29,12 +29,28 @@ Once approved, your submission will be merged into the main branch.
 
 
 
+## ⚠️ Rules for Submissions
+Each submission must be in its own branch.
+Use descriptive commit messages for clarity.
+Ensure your files are named correctly and meet the project requirements.
+Do not push directly to the main branch.
 
 
 
 
+## Example Template for Submissions
+When creating a pull request, ensure to include the following details:
 
 
+### Submission Details
+- **Name**: Your Full Name
+- **Description**: Brief summary of your submission
+- **Files Added/Updated**: List of files in this submission
+
+
+Always pull the latest changes from main before creating a new branch:
+
+git pull origin main
 
 
 
